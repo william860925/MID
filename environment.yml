@@ -1,0 +1,13 @@
+name: MID
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - scikit-learn
+  - pip
+  - pip:
+    - plotly==5.6.0
+
+prefix: /home/bella/miniconda3/envs/MID
