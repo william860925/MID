@@ -1,6 +1,6 @@
 # Models for Infinite Dimensions (MID)
 
-<img src=https://github.com/Bella-cell/VAE/blob/main/doc/MIDLogo.png width=300 p align="right">
+<img src=https://github.com/william860925/UV-Vis-Spectra-Dimensionality-Reduction-and-Analysis/blob/main/doc/MIDLogo.png width=300 p align="right">
 
 The MID project aims to produce a machine learning toolkit that can return the physical meaning behind the complex dataset. Considering the continuously growing research interest in using high throughput experiments in characterizations of newly synthesized samples/materials, tons of spectra data are being conducted, and thus an efficient toolkit for analyzing data is in great needed. In this project, the toolkit is built up with several unsupervised analytical methods, including normal PCA, tangent PCA and VAE. These methods will lower the dimension of a given dataset and produce plots of new low-dimensional spectrum. Therefore, it will make it easier for users to understand the physical meaning of the originally complex data. Moreover, by adding and subtracting one standard deviation of each newly generated spectrum, the user will be able to observe more information of the data and even make prediction for their future experiments.
 
@@ -35,7 +35,7 @@ This enviroment contains the following packages: <br>
 ## Organization
 
 
-- UW Chemical Engineering<img src=https://github.com/Bella-cell/VAE/blob/main/doc/organization_iamge.png width=600 p align="right">
+- UW Chemical Engineering<img src=https://github.com/william860925/UV-Vis-Spectra-Dimensionality-Reduction-and-Analysis/blob/main/doc/organization_iamge.png width=600 p align="right">
 - Clean Energy Institute 
 - UW Direct           
 
